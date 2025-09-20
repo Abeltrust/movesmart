@@ -12,18 +12,18 @@ import {
   Star,
   Search,
   Filter,
-  Clock,
+  
   DollarSign,
   Wifi,
   Coffee,
-  Car,
+ 
   Shield,
   CheckCircle,
   X,
   Heart,
-  Share2,
+  
   ExternalLink,
-  MessageCircle
+  
 } from 'lucide-react'
 import { useLanguage } from '../contexts/LanguageContext'
 import { useAuth } from '../contexts/AuthContext'
